@@ -1,6 +1,2 @@
-#Asi es el SEO, a veces le doy acceso y a veces lo bloqueo.
-
 User-agent: *
 Allow: /
-Disallow: /ejercicio/*
-Disallow: /otros/*
